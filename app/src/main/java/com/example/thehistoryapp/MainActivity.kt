@@ -52,6 +52,11 @@ class MainActivity : AppCompatActivity() {
             }else {
                 result.text="You age is in valid please enter an age between 20-30"
             }
+            //CODE ATTRIBUTION
+            //This method was taken from stackoverflow
+            //https://stackoverflow.com/search?q=if&s=f45ecc79-0a29-4c77-bca5-609af87a5a7e
+            //Mysticial
+            //https://stackoverflow.com/users/922184/mysticial
         }
     }
 }
